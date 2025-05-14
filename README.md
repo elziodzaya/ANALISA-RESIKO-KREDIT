@@ -1,2 +1,5 @@
 # ANALISA-RESIKO-KREDIT
-SISTEM PREDIKSI KREDIT MACET/ANALISA TINGKAT RESIKO KREDIT
+- SISTEM PREDIKSI KREDIT MACET/ANALISA TINGKAT RESIKO KREDIT
+- Resiko pemberian kredit adalah potensi kerugian yang dihadapi oleh lembaga keuangan, khususnya bank, akibat ketidakmampuan debitur dalam memenuhi kewajiban pembayaran pinjaman sesuai dengan perjanjian yang telah disepakati.Risiko ini dapat berdampak langsung pada likuiditas, profitabilitas, dan stabilitas keuangan bank. Oleh karena itu perlu dilakukan analisa dan penilaian resiko pemberian kredit, yang merupakan proses penting dalam dunia perbankan dan lembaga keuangan untuk meminimalkan risiko kredit macet.
+- Dalam mengembangkan dan membangun model machine learning pada sistem penilaian resiko pemberian kredit menggunakan data credit-risk yang bersumber dari Kaggle (https://www.kaggle.com/datasets/laotse/credit-risk-dataset), dimana dataset ini memiliki dimensi sebanyak 32581 baris data dengan 12 kolom. Adapun Tahapan yang dilakukan dalam pembuatan model machine learning ini adalah tahap Pengolahan Data, Eksplorasi Data, Pembersihan Data, Visualisasi Data, Data Encoding, Membuat Model Machine Learning dan Pengujian Model
+ 
